@@ -1,22 +1,22 @@
 {
     "domain": "golf.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "골프 클럽",
+        "골프웨어",
+        "골프 용품"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang golf items."
+        "골프 클럽": {
+            "topic": "Drivers, irons, putters.",
+            "role": "Golf equipment expert."
         },
-        "수유/이유식": {
-            "topic": "golf bottle sterilizers, golf food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "골프웨어": {
+            "topic": "Golf shoes, caps, golf apparel.",
+            "role": "Golf fashion curator."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "골프 용품": {
+            "topic": "Rangefinders, golf bags, golf balls.",
+            "role": "Golf lifestyle reviewer."
         }
     }
 }
